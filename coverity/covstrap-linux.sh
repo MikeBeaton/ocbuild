@@ -12,10 +12,10 @@
 #  to be later used with OpenCore.
 #
 #  Latest version available at:
-#  https://raw.githubusercontent.com/acidanthera/ocbuild/master/coverity/covstrap-linux.sh
+#  https://raw.githubusercontent.com/mikebeaton/ocbuild/master/coverity/covstrap-linux.sh
 #
 #  Example usage:
-#  src=$(/usr/bin/curl -Lfs https://raw.githubusercontent.com/acidanthera/ocbuild/master/coverity/covstrap-linux.sh) && eval "$src" || exit 1
+#  src=$(/usr/bin/curl -Lfs https://raw.githubusercontent.com/mikebeaton/ocbuild/master/coverity/covstrap-linux.sh) && eval "$src" || exit 1
 #
 
 abort() {
